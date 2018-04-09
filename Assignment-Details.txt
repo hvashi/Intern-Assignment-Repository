@@ -1,0 +1,31 @@
+About The Assignment
+
+In this assignment you will use real world free to use data from Los Alamos National Laboratory. https://csr.lanl.gov/data/2017.html web site contains approximately 90 days host and network datasets. You will only need the first day's network data set for this assignment.
+
+Which programs will you need?
+
+1) Python
+2) Jupyter Notebook
+3) Git
+4) Github account
+
+What will you do?
+
+1) Clustering network events based on packet and bytes. 
+2) Finding most anomalous events based on packet and bytes. 
+
+Assignment Path:
+
+1) Download and install python 3.*, jupyter notebook and git
+2) Create a github account and specific repository for this assignment
+3) Download the file
+4) Make the analysis (EDA, Clustering and Anomaly)
+5) Export your jupyter notebook with Name-Surname suffix. For example Clustering-Seckin-Dinc.ipynb
+6) Send me your repository link
+
+You can use my github repository (https://github.com/seckindinc/Python) as a guidance to your analysis. Try to choose max two clustering and two anomaly detection algorithms. In the end i will upload all your answers my repository to compare your codes and create a last document as a real life project.
+
+Assignment deadline: 23.04.2018
+ 
+
+ 
